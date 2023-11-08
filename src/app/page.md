@@ -13,9 +13,9 @@ title: Розпочнемо
 
 {% quick-link title="Перша задача" icon="theming" href="/get-started/first" description="Перша задача" /%}
 
-{% quick-link title="Перша задача" icon="theming" href="/get-started/two" description="Друга задача" /%}
+{% quick-link title="Друга задача" icon="theming" href="/get-started/two" description="Друга задача" /%}
 
-{% quick-link title="Перша задача" icon="theming" href="/get-started/three" description="Третя задача" /%}
+{% quick-link title="Третя задача" icon="theming" href="/get-started/three" description="Третя задача" /%}
 
 {% /quick-links %}
 
