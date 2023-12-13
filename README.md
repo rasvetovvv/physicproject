@@ -1,4 +1,4 @@
-# Aikeedo Docs
+# physicproject docs
 
 ## Getting started
 
