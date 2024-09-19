@@ -13,7 +13,7 @@ title: Розпочнемо
 
 {% quick-link title="Винаходи Українських вчених" icon="theming" href="/physic2024/home" description="Винаходи Укранїських вчених" /%}
 
-{% quick-link title="? icon="theming" href="" description="?" /%}
+{% quick-link title="?" icon="theming" href="" description="?" /%}
 
 {% quick-link title="?" icon="theming" href="" description="?" /%}
 
