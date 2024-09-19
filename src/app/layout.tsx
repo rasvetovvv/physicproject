@@ -24,7 +24,7 @@ const lexend = localFont({
 export const metadata: Metadata = {
   title: {
     template: '%s - Проєкт з фізики',
-    default: 'Проєкт з фізики',
+    default: 'Проєкт з фізики1',
   },
   description:
     'Проєкт з фізики1.',
