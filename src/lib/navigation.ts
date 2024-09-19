@@ -13,5 +13,14 @@ export const navigation = [
       { title: 'Друга', href: '/get-started/two' },
       { title: 'Третя', href: '/get-started/three' },
     ],
+  },
+ {
+    title: 'Визначні винаходи Украінських вчених',
+    links: [
+      { title: 'Математика', href: '/get-started/math' },
+      { title: 'Фізика', href: '/get-started/physic'},
+      { title: 'Інформатика', href: '/get-started/info'},
+      { title: 'Астрономія', href: '/get-started/astronomy'},
+    ],
   }
 ]
