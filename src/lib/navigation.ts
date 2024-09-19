@@ -2,6 +2,7 @@ export const navigation = [
   {
     title: 'Початок',
     links: [
+      { title: 'Головна', href: '' },
       { title: 'Розповідь', href: '/get-started/about' },
     ],
   },

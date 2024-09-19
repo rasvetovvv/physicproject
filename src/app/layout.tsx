@@ -24,10 +24,10 @@ const lexend = localFont({
 export const metadata: Metadata = {
   title: {
     template: '%s - Проєкт з фізики',
-    default: 'Проєкт з фізики1',
+    default: 'Проєкт з фізики',
   },
   description:
-    'Проєкт з фізики1.',
+    'Проєкт з фізики1',
 }
 
 export default function RootLayout({
