@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     default: 'Проєкт з фізики',
   },
   description:
-    'Проєкт з фізики1',
+    'Проєкт з фізики',
 }
 
 export default function RootLayout({

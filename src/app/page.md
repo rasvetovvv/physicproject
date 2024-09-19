@@ -11,11 +11,11 @@ title: Розпочнемо
 {% quick-link title="Розповідь" icon="installation" href="/get-started/about" description="Розповідь" /%}
 
 
-{% quick-link title="Перша задача" icon="theming" href="/get-started/first" description="Перша задача" /%}
+{% quick-link title="Винаходи Українських вчених" icon="theming" href="/physic2024/home" description="Винаходи Укранїських вчених" /%}
 
-{% quick-link title="Друга задача" icon="theming" href="/get-started/two" description="Друга задача" /%}
+{% quick-link title="? icon="theming" href="" description="?" /%}
 
-{% quick-link title="Третя задача" icon="theming" href="/get-started/three" description="Третя задача" /%}
+{% quick-link title="?" icon="theming" href="" description="?" /%}
 
 {% /quick-links %}
 
