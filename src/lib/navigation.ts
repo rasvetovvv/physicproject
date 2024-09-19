@@ -2,7 +2,7 @@ export const navigation = [
   {
     title: 'Початок',
     links: [
-      { title: 'Головна', href: 'https://physicproject.vercel.app/' },
+      { title: 'Головна', href: 'https://physicproject.vercel.app' },
       { title: 'Розповідь', href: '/get-started/about' },
     ],
   },
