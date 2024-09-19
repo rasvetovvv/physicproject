@@ -17,7 +17,7 @@ export const navigation = [
  {
     title: 'Визначні винаходи Укранїських вчених',
     links: [
-      { title: 'Головна', href: '/physic2024/home' }
+      { title: 'Головна', href: '/physic2024/home' },
       { title: 'Математика', href: '/physic2024/math' },
       { title: 'Фізика', href: '/physic2024/physic'},
       { title: 'Інформатика', href: '/physic2024/info'},
