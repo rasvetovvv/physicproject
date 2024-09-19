@@ -17,10 +17,10 @@ export const navigation = [
  {
     title: 'Визначні винаходи Украінських вчених',
     links: [
-      { title: 'Математика', href: '/get-started/math' },
-      { title: 'Фізика', href: '/get-started/physic'},
-      { title: 'Інформатика', href: '/get-started/info'},
-      { title: 'Астрономія', href: '/get-started/astronomy'},
+      { title: 'Математика', href: '/physic2024/math' },
+      { title: 'Фізика', href: '/physic2024/physic'},
+      { title: 'Інформатика', href: '/physic2024/info'},
+      { title: 'Астрономія', href: '/physic2024/astronomy'},
     ],
   }
 ]
